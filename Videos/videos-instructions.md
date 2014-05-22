@@ -1,0 +1,3 @@
+The videos are all on YouTube. The content page gives the links to those videos. You will need to embed the videos on the Video page. We will cover more details on how to do this (and how to do it so the videos are responsive) in class.
+
+Ideally this would eventually contain videos of people speaking at the conference, but since it isn't a real conference and I want you to use real videos, I'm instead linking to BMCC videos made by six of the people who are speakers. The page you create will showcase these videos.

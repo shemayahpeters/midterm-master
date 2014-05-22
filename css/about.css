@@ -1,0 +1,40 @@
+body {
+	background-color: #99ccff; 
+	color: #006565; }
+h1{
+	font-size: 3em;
+	line-height: 1;
+}
+
+h2{
+	font-size: 2.3;
+	line-height: 1.2;
+}
+
+h3{
+	font-size: 1.8em;
+	line-height: 1.4;
+}
+
+.location{margin-bottom: 1em;
+	padding: 2%;}
+
+.date-time{margin-bottom: 0.1em;
+	padding: 2%;
+
+}
+
+.about{margin-bottom: 1em;
+	padding: 2%;
+
+}
+
+.direction{
+	background-color:;
+	margin-bottom: 1em;
+	padding: 2%;
+}
+
+p{font-size: 1.4;
+	
+}

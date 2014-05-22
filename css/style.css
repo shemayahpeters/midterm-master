@@ -1,0 +1,156 @@
+/* apply a natural box layout model to all elements */
+*, *:before, *:after {
+-moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+}
+
+html{ 
+}
+
+img,video{width: auto; max-width: 100%; height: auto; margin: 0 auto 1em;}
+
+ul{
+list-style-type:upper-roman;
+margin:0em;
+padding:1em;
+color:#ffcc34;
+}
+
+li{
+display:inline; color:#ffcc34;
+border:outset; border-color:#ffcc34;
+border-radius: 10px; 
+}
+
+a{
+	font-family:sans-serif;
+	font-weight: bold;
+	color: #3333ff;
+	background:#ffcc34; 
+}
+
+body{
+	width:80%;
+	margin:0 auto;
+	border:0px dotted #006565;
+    background-color:transparent;
+	background-image: url("/Users/shemayah.phillippete/Downloads/midterm-master/images/warm.png");
+    background-repeat:center;	
+}
+
+p{ margin-bottom: 1em auto;
+	font-size: 1.4em;
+    font-style: italic;
+    font-weight: bold; 
+}
+
+h1{color: #3333ff;
+	font-size: 3em;
+	line-height: 1.6em; 
+	font-style:oblique;
+
+}
+
+h2{
+	font-size: 2.4em; 
+	color: #7A7A00;
+	line-height: 1.2;
+	background-color: ;
+	border-radius:10px;
+	margin-right:775px;  
+}
+
+h3{
+	font-size: 1.7em;
+	color: #3333ff;
+	line-height: 1.1;
+}
+
+.track{
+	width: 96%; /*600/800 */
+	background-color:#ffcc34;
+	padding: 1%;
+	border-radius:25px; 
+
+}
+
+.session{
+	background-color: #99ccff;
+	margin-bottom: 1% auto;
+	padding: 2%; border-radius: 20px;
+}
+
+.image{
+    width:100% auto; height:100% auto;
+}
+-----------------------------------------------
+ABOUT CSS
+-----------------------------------------------
+
+.location{margin-bottom: 1em;
+	padding: 2%;
+color:#006565; 
+}
+
+.map{margin-bottom: 0.1em;
+	padding: 2%;color:#ffcc34; }
+
+.date-time{margin-bottom: 0.1em;
+	padding: 2%;color:#006565;
+
+}
+
+.about{margin-bottom: 1em; margin-top:0.1em; 
+	padding: 2%;color:#006565;
+
+}
+
+.bus{
+	color: #006565;
+}
+
+.direction{
+	color:#006565;
+	margin-bottom: 1em;
+	padding: 2%;
+}
+
+
+
+
+
+--------------------------------------------
+ HOME CSS
+--------------------------------------------            
+
+.main{
+    width: 96%; /*600/800 */
+	background-color:#ffcc34;
+	padding: 1%;
+	border-radius:25px;
+
+
+}
+
+
+
+
+
+----------------------------------------------
+SPEAKER CSS
+----------------------------------------------
+
+.speaker{
+  width: 96%; /*600/800 */
+	background-color:#f8cc34;
+	padding: 1%;
+	border-radius:25px;
+
+
+}
+
+
+
+
+
+
+
